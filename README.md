@@ -1,2 +1,2 @@
-# function_approximation
-Function Approximation using Deep Learning 
+# Function Approximation using Deep Learning
+
